@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate frontend Web Developer from India</h3>
-<img align="right" alt="Developer image" width:"400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
+<!-- <img align="right" alt="Developer image" width:"200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkrpal&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkrpal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkrpal" alt="praveenkrpal" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkrpal" alt="praveenkrpal" /></a> </p> -->
 
 - 💬 Ask me about **HTML,CSS,javaScript,Reactjs,Bootstrap**
 
